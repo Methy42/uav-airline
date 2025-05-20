@@ -1,0 +1,13 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+#app {
+  height: 100vh;
+}
+
+:root {
+  --color-primary: #1976D2; /* 主色 */
+  --text-color-primary: #333; /* 文字色 */
+}
